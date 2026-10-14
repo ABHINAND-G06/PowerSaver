@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+firmware = "Debug/PMSystem.elf"
+elf = "Debug/PMSystem.elf"
+rfc2217ServerPort = 4000
